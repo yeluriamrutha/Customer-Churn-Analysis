@@ -1,4 +1,4 @@
-Customer Churn Analysis
+##Customer Churn Analysis
 
 ## Overview
 This project analyzes customer churn behavior using SQL and Power BI. The goal is to identify key factors that lead to customer attrition and provide actionable insights.
